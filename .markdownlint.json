@@ -9,7 +9,10 @@
         "nobr",
         "sup",
         "sub",
-        "br"
+        "br",
+        "details",
+        "summary",
+        "img"
       ]
     }
   }
